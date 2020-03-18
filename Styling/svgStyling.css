@@ -1,0 +1,19 @@
+svg {
+    position: relative;
+}
+
+circle{
+    fill: rgba(0, 0, 0, 0);
+    opacity: 0.3;
+
+    stroke-width: 40;
+    stroke: #36c5ca;
+    stroke-dasharray: 25, 20;
+}
+
+
+
+/*
+style="fill:rgba(0,0,0,0);stroke:black; stroke-width:30; stroke-dasharray:18, 18;"
+
+*/

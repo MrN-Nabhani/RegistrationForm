@@ -1,0 +1,18 @@
+<?xml-stylesheet type="text/css" href="Styling/svgStyling.css"?>
+        
+    <svg width="100%" height="100%" viewBox="0 0 800 350"
+        version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink">
+                
+        <g transform="translate(400, 180)">             
+
+            <circle cx="0" cy="0" r="100" >
+                <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="360" to="0" begin="0" dur="50s" repeatCount="indefinite" />
+            </circle>
+
+            <circle cx="0" cy="0" r="150">
+                <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0" to="360" begin="0" dur="50s" repeatCount="indefinite" />
+            </circle>
+            
+        </g>
+    </svg> 
